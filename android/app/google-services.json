@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "544837651284",
+    "project_id": "newinstagram-8cd4e",
+    "storage_bucket": "newinstagram-8cd4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544837651284:android:96391713aa5d01e70a96c1",
+        "android_client_info": {
+          "package_name": "com.example.amira_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYwWS5mPZOEWf9JbCezh66QSDAc5fSUjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544837651284:android:02e2ffa6dc4a59be0a96c1",
+        "android_client_info": {
+          "package_name": "com.example.new_instagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYwWS5mPZOEWf9JbCezh66QSDAc5fSUjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
